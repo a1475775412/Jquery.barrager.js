@@ -5,11 +5,6 @@ jquery.barrager.js 专业的网页弹幕插件
       * [发布弹幕](#发布弹幕)
       * [清除所有弹幕](#清除所有弹幕)
       * [兼容低版本ie](#兼容低版本ie)
-  * [集成](#集成)
-      * [通用后端](#通用后端)
-      * [Discuz](#discuz)
-      * [WordPress](#wordpress)
-      * [hexo](#hexo)
   * [版本更新](#版本更新) 
       * [1.0](#1.0)
       * [1.1](#1.1)
@@ -21,9 +16,8 @@ jquery.barrager.js 专业的网页弹幕插件
 | 名称 | jquery.barrager.js |
 | -----|----|
 |版本|1.1|
-|项目主页|http://yaseng.github.io/jquery.barrager.js|
-|下载|https://github.com/yaseng/jquery.barrager.js|
-|github|https://github.com/yaseng/jquery.barrager.js|
+|下载|https://github.com/a1475775412/Jquery.barrager.js/|
+|github|https://github.com/a1475775412/Jquery.barrager.js/|
 
 ![demo_1](https://raw.githubusercontent.com/yaseng/jquery.barrager.js/master/screenshot/demo_1.gif)
 
@@ -240,18 +234,6 @@ Discuz
 ------
 discuz 弹幕插件是一款基于discuz 论坛专业的弹幕插件,使用弹幕显示帖子,回复,指定内容等,为论坛带来更多的趣味和互动性。支持速度、高度、颜色、数量等自定义,兼容各种主流浏览器 。
 插件地址: http://addon.discuz.com/?@uauc_barrager.plugin
-
-
-WordPress
----------
-jquery.barrager.js WordPress集成
-http://blog.xiaolin.mcxhz.cn/jquery-barrager-js-for-wordpress.html
-
-hexo
----------
-jquery.barrager.js hexo 集成
-http://blog.xiaolin.mcxhz.cn/jquery-barrager-js-for-hexo.html
-
 
 版本更新
 ========
